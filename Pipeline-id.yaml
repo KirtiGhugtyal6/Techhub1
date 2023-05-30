@@ -1,0 +1,4 @@
+resources:
+  - resourceType: trigger-pipeline
+    pipelineID: '1284' 
+    organization: Knoldus
